@@ -1,0 +1,10 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  jupyterlab:
+    build: .
+    ports:
+      - 8080:8888
+    volumes:
+      - ./notebooks:/notebooks/host
