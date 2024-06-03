@@ -40,8 +40,8 @@ Enchanted Grove,8.46,16,10,0,40,Forest,470
 Peaceful Valley,7.71,17,8,4,26,Meadow,212
 Enchanted Cliffs,28.72,15,7,4,46,Hills,967
 Sunny Field,35.24,19,18,10,6,Fields,11
-Wild Stretch,32,20,12,5,0,Savannah,452
-Dark Jungle,19,19,8,3,4,Forest,23
+Wild Stretch,32.0,20,12,5,0,Savannah,452
+Dark Jungle,19.0,19,8,3,4,Forest,23
 Enchanted Grassland,23.82,16,15,9,36,Savannah,19
 Rolling Mountains,21.75,16,11,7,33,Hills,496
 Enchanted Wetland,38.98,18,7,6,19,Wetland,38
@@ -53,7 +53,7 @@ Cursed Bogs,6.12,15,16,10,41,Wetland,82
 Open Meadow,31.53,18,13,4,13,Meadow,811
 Misty Forest,24.4,19,6,4,8,Forest,119
 Enchanted Swamps,38.97,17,12,10,25,Wetland,282
-Enchanted Woods,33,15,11,9,47,Forest,576
+Enchanted Woods,33.0,15,11,9,47,Forest,576
 Cursed Wetland,21.78,19,12,7,3,Wetland,440
 Foggy Wetland,26.28,15,2,0,48,Wetland,155
 Hot Wasteland,34.37,17,8,0,26,Desert,923
@@ -64,7 +64,7 @@ Open Plain,16.19,18,5,1,19,Savannah,50
 Dark Canopy,22.45,15,0,0,43,Forest,197
 Muddy Swamps,1.07,18,6,3,20,Wetland,535
 Wild Plain,4.34,16,16,10,38,Savannah,552
-Enchanted Copse,24,15,10,4,42,Forest,208
+Enchanted Copse,24.0,15,10,4,42,Forest,208
 High Hills,32.68,17,17,7,28,Hills,552
 Enchanted Farmland,5.41,20,13,5,0,Fields,763
 Yellow Plain,35.97,18,16,8,14,Savannah,814
@@ -136,7 +136,7 @@ Dense Thicket,35.88,18,9,5,14,Forest,771
 Enchanted Savannah,18.28,16,8,7,35,Savannah,959
 Enchanted Forest,23.63,18,10,6,13,Forest,960
 Sunny Grassland,27.08,16,19,9,32,Fields,407
-Fertile Farmland,29,18,5,1,12,Fields,554
+Fertile Farmland,29.0,18,5,1,12,Fields,554
 Wide Plain,10.92,15,12,4,45,Fields,116
 Serene Clearing,31.08,17,20,10,28,Meadow,308
 Dark Woodland,38.52,17,7,3,25,Forest,220
@@ -249,5 +249,5 @@ Lush Pasture,0.51,18,7,0,16,Fields,800
 Lush Farmland,11.39,19,7,0,6,Fields,7
 Flooded Marshes,11.13,16,11,5,33,Wetland,74
 Green Hills,24.89,15,17,8,47,Hills,67
-Ideal Location,20,13,17,9,24,Meadow,250
-Stikker Creek,19.8,13,19,10,23,Meadow,245
+Ideal Location,20,0,20,10,0,Meadow,250
+Stikker Creek,19.8,0,19,10,0,Meadow,245
