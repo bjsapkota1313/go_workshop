@@ -1,9 +1,15 @@
-# Copyright
+# Go Workshop Repository
 
-This repository is forked and modified from <a href="https://github.com/janpfeifer/gonb">janpfeifer/gonb</a>
-Check out the original repository for more information.
+This repository contains code for our GO Workshop. <br>
 
-## Libraries Being Used
+## Installation Steps
+1. Clone this Git repository:
+2. Run docker-compose-up:
+3. Open up JupyterLab to start coding:
+
+
+
+## Libraries being used
 
 * <a href="https://github.com/nfnt/resize">Resize Image</a> This library is used to resize the image
   to a specific size.
