@@ -10,9 +10,18 @@ Authors:
 
 ## Installation Steps
 **1. Clone this Git repository:** <br>
-```git clone  https://github.com/bjsapkota1313/go_workshop.git```<br>
+```sh 
+git clone  https://github.com/bjsapkota1313/go_workshop.git
+```
+<br>
+
 **2. Run docker-compose up in the repository root (make sure Docker Desktop is running):** <br>
-```docker compose up```<br>
+
+```sh
+docker compose up
+```
+<br>
+
 **3. Open up JupyterLab to start coding:** <br>
 Go to http://localhost:8080<br>
 
