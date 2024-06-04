@@ -1,9 +1,24 @@
-# Copyright
+# Go Workshop Repository
 
-This repository is forked and modified from <a href="https://github.com/janpfeifer/gonb">janpfeifer/gonb</a>
-Check out the original repository for more information.
+This repository contains code for our GO Workshop. <br>
 
-## Libraries Being Used
+Authors:
+- Bijay
+- Vedat
+- David
+- Joshua
+
+## Installation Steps
+**1. Clone this Git repository:** <br>
+```git clone  https://github.com/bjsapkota1313/go_workshop.git```<br>
+**2. Run docker-compose up in the repository root (make sure Docker Desktop is running):** <br>
+```docker compose up```<br>
+**3. Open up JupyterLab to start coding:** <br>
+Go to http://localhost:8080<br>
+
+
+
+## Libraries being used
 
 * <a href="https://github.com/nfnt/resize">Resize Image</a> This library is used to resize the image
   to a specific size.
@@ -19,4 +34,3 @@ Check out the original repository for more information.
 
 #### More Libraries Equivalent to Python Libraries
 <a href="https://altafino.com/blog/golang-alternatives-for-python-ai-libraries/">Golang Alternatives for Python AI Libraries</a> This blog is used to compare the Golang libraries with Python libraries.
-
