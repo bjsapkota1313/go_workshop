@@ -3,9 +3,12 @@
 This repository contains code for our GO Workshop. <br>
 
 ## Installation Steps
-1. Clone this Git repository:
-2. Run docker-compose-up:
-3. Open up JupyterLab to start coding:
+**1. Clone this Git repository:** <br>
+```bash ```<br>
+**2. Run docker-compose-up:** <br>
+```bash ```<br>
+**3. Open up JupyterLab to start coding:** <br>
+```bash ```<br>
 
 
 
