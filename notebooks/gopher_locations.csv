@@ -1,4 +1,4 @@
-LocationName,AverageTemperature,NrOfPredators,NrFoodSources,NrWaterSources,NrHumans,VegetationType,LandSize
+LocationName,AverageTemperature,NrPredators,NrFoodSources,NrWaterSources,NrHumans,VegetationType,LandSize
 Swampy Marsh,5.12,16,9,2,36,Wetland,866
 Open Plain,38.22,18,15,9,20,Savannah,953
 Marshy Bog,7.23,15,7,4,48,Wetland,599
